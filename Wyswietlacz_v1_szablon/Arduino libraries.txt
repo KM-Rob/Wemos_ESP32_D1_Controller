@@ -1,0 +1,5 @@
+Accelerometer 6 DoF
+- MPU6050: library: MPU6050_light (by rfetick)
+OLED display
+- Adafruit SSD1306 Wemos Mini OLED shield - dedicated OLED shield library
+- Adafriot GFX Library - graphic core library
